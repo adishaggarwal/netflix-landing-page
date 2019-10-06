@@ -126,7 +126,7 @@ img{
     margin: 0 0 2rem;
 }
 
-.showcase::after{
+#modal::after{
         content: '';
         position: absolute;
         top: 0;
@@ -272,7 +272,7 @@ img{
 .footer-cols{
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr;
-    grid-gap: 
+
 }
 
 .footer li{
